@@ -1,0 +1,13 @@
+https://repl.it/@SabaDhaifalla/lab-02#main.cpp
+
+#include <iostream> //using cout
+using namespace std; 
+
+int main()
+{
+ cout << "Evaluations of expressions\n";
+    cout << "8 * 2 + 6 +2 = " << (8 * 2 + 6 +2) << "\n";
+    cout << "3 + 6 + 6 + 9  = " << (3 + 6 + 6 + 9) << "\n";
+   
+    return 0;
+}
