@@ -1,0 +1,12 @@
+Section		Grade
+========================= 
+Part A		1.1/2
+Part B		3/3
+=========================
+Total		4.1/5 
+
+Comment:
++ Part A, you are missing solutions for 
+all problems but the first one. And you 
+have an incorrect solution in the thrid 
+problem.
