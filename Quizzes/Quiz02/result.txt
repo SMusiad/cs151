@@ -1,0 +1,10 @@
+Section		Grade
+========================= 
+Trace		3.65/5
+=========================
+Total		3.65/5 
+
+Comment:
++ Your submission is missing steps and 
+you calculated a value incorrectly that 
+made the rest of the trace invalid.
