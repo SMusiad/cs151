@@ -1,0 +1,25 @@
+Section		Grade
+=========================== 
+Problem 1	4.80/5.00
+Problem 2	1.50/5.00
+Problem 3	2.90/5.00
+Problem 4	0.00/5.00
+===========================
+Total		9.20/20.00 
+
+Comment:
++ Problem 1, part c and d are not performing
+the requested tasks accurately.
+
++ Problem 2, the program is using an 
+incorrect data type.
+
++ Problem 2, the program will not produce
+an accurate result.
+
++ Problem 3, the table has a lot of incorrect 
+values.
+
++ Problem 3, the table has merged steps.
+
++ Problem 4 is missing.
