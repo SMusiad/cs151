@@ -1,0 +1,15 @@
+Section		Grade
+========================== 
+Part A		0.75/5.00
+Part B		 PND/5.00
+==========================
+Total		0.75/5.00 
+
+Comment:
++ Part A, problem 3 and 4 missing.
+
++ Part A, problem 2 will produce
+inaccurate results.
+
++ Part A, you are doing unnecessarily 
+more than is requested.
