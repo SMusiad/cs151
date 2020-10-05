@@ -1,8 +1,10 @@
 Section		Grade
 ====================== 
-Part A		2/2
-Part B		PND
+Part A		2.0/2
+Part B		2.5/3
 ======================
-Total		2/5 
+Total		4.5/5 
 
 Comment:
++ Part B, problem 1 and 3 are not performing
+the requested task accurately.
