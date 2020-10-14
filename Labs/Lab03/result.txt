@@ -1,9 +1,9 @@
 Section		Grade
 ========================== 
 Part A		0.75/5.00
-Part B		 PND/5.00
+Part B		2.55/5.00
 ==========================
-Total		0.75/5.00 
+Total		3.30/5.00 
 
 Comment:
 + Part A, problem 3 and 4 missing.
@@ -13,3 +13,10 @@ inaccurate results.
 
 + Part A, you are doing unnecessarily 
 more than is requested.
+
++ Part B, problem 2 is adding unrequested
+additions.
+
++ Part B, problem 3 is not defined correctly.
+
++ Part B, the call for problem 3 is invalid.  
