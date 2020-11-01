@@ -1,0 +1,15 @@
+Section		Grade
+============================ 
+Project A	14.00/20.00
+============================
+Total		14.00/20.00 
+
+Comment:
++ The program does not follow several
+instructions.
+
++ The operation functions are inaccurate.
+
++ The program does not compile.
+
+
