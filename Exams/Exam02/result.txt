@@ -1,0 +1,21 @@
+Section		Grade
+============================ 
+Section I	  3.80/5.00
+Section II	  4.50/5.00
+Section III	  5.00/5.00
+Section IV	  0.00/5.00
+============================
+Total		13.30/20.00 
+
+Comment:
++ Section I, problems a and c have inaccuracies.
+
++ Section I, problem b is incorrect.
+
++ Section II, the function has errors.
+
++ Section II, the function is partially
+inaccurate.
+
++ Section IV is missing.
+
